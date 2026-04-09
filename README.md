@@ -31,10 +31,11 @@
 
 <p align="center">
   <!-- Main GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanMohammodZakaria&show_icons=true&theme=tokyonight" />
-
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=HasanMohammodZakaria&show_icons=true&theme=tokyonight" /> -->
+  
   <!-- GitHub streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanMohammodZakaria&theme=tokyonight" />
+  
 </p>
 
 ---
