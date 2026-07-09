@@ -13,40 +13,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=5DD74C&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Hasan+Md+Zakaria;Full+Stack+JavaScript+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Scalable+Web+Applications" />
 </p>
 
-<!-- =================================================== -->
-<!--                 INTRODUCTION                        -->
-<!-- =================================================== -->
-
-<h1 align="center">
-Hi 👋 I'm Hasan Md Zakaria
-</h1>
-
-<h3 align="center">
-Full Stack Developer
-</h3>
-
-<p align="center">
-
-Passionate about building modern, scalable, responsive and user-focused web applications using the JavaScript ecosystem.
-
-</p>
-
-<!-- =================================================== -->
-<!--                SOCIAL BUTTONS                       -->
-<!-- =================================================== -->
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/hasanmdzakaria/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:zakariak4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -239,59 +205,6 @@ A JavaScript project demonstrating DOM manipulation, issue tracking, filtering, 
 </p>
 
 ---
-
-<!-- =================================================== -->
-<!--                LET'S CONNECT                        -->
-<!-- =================================================== -->
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/hasanmdzakaria/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:zakariak4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-📧 **Email:** **zakariak4@gmail.com**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/hasanmdzakaria/
-
-🌐 **Portfolio:** Coming Soon
-
----
-<!-- =================================================== -->
-<!--                 PERSONAL MISSION                    -->
-<!-- =================================================== -->
-
-# 🌍 My Mission
-
-My mission is to build meaningful software that solves real-world problems, creates value for users, and contributes positively to the developer community.
-
-I believe that continuous learning, collaboration, and writing clean, maintainable code are the foundations of becoming a great software engineer.
-
----
-
-<!-- =================================================== -->
-<!--                 OPEN SOURCE                         -->
-<!-- =================================================== -->
-
-# 🤝 Open Source
-
-I enjoy learning from the open-source community and look forward to contributing to projects that make technology more accessible and impactful.
-
-If you have an interesting project or collaboration opportunity, feel free to reach out.
-
----
-
-<!-- =================================================== -->
-<!--                 CONTACT                             -->
-<!-- =================================================== -->
 
 # 📬 Get In Touch
 
