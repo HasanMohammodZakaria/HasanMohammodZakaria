@@ -10,14 +10,14 @@
 <!--              ANIMATED TYPING                        -->
 <!-- =================================================== -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=5DD74C&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Hasan+Md+Zakaria;Full+Stack+JavaScript+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=5DD74C&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Hasan+Md+Zakaria;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Scalable+Web+Applications" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a passionate **Full Stack JavaScript Developer** with **5+ years of professional WordPress development experience**.
+I'm a passionate **Full Stack JavaScript Developer** with **3+ years of professional WordPress development experience**.
 
 I specialize in building **modern**, **responsive**, **scalable**, and **user-focused** web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, and **MongoDB**.
 
