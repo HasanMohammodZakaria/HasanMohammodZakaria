@@ -17,7 +17,7 @@
 
 # 👨‍💻 About Me
 
-I'm a passionate **Full Stack JavaScript Developer** with **3+ years of professional WordPress development experience**.
+I'm a passionate **Full Stack Developer** with **3+ years of professional WordPress development experience**.
 
 I specialize in building **modern**, **responsive**, **scalable**, and **user-focused** web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, and **MongoDB**.
 
