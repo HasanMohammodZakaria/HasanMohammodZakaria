@@ -9,9 +9,8 @@
 <!-- =================================================== -->
 <!--              ANIMATED TYPING                        -->
 <!-- =================================================== -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=5DD74C&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Hasan+Md+Zakaria;Full+Stack+JavaScript+Developer;React+•+Next.js+•+TypeScript;Node.js+•+Express.js+•+MongoDB;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=5DD74C&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Hasan+Md+Zakaria;Full+Stack+JavaScript+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Scalable+Web+Applications" />
 </p>
 
 <!-- =================================================== -->
@@ -23,7 +22,7 @@ Hi 👋 I'm Hasan Md Zakaria
 </h1>
 
 <h3 align="center">
-Full Stack JavaScript Developer
+Full Stack Developer
 </h3>
 
 <p align="center">
@@ -62,16 +61,6 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 
 ---
 
-# 🚀 Current Focus
-
-- 🌱 Learning Advanced TypeScript
-- ⚡ Building Production-Ready Full Stack Applications
-- 🧠 Improving Problem Solving Skills
-- 🏗 Learning System Design
-- 🚀 Exploring Scalable Backend Architecture
-- 💼 Preparing for Remote Software Engineering Opportunities
-
----
 <!-- =================================================== -->
 <!--                  TECH STACK                         -->
 <!-- =================================================== -->
@@ -127,7 +116,7 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 
 ### 💻 WordPress Developer
 
-**5+ Years of Professional Experience**
+**3+ Years of Professional Experience**
 
 Experienced in building high-performance, responsive and business-focused websites using modern WordPress technologies.
 
@@ -137,7 +126,6 @@ Experienced in building high-performance, responsive and business-focused websit
 - Elementor Pro
 - WooCommerce
 - Crocoblock
-- JetEngine
 - Booking Systems
 - Responsive Web Design
 - Website Performance Optimization
@@ -175,7 +163,7 @@ I enjoy building modern web applications such as:
 
 # 🎯 Career Objective
 
-My goal is to become a highly skilled **Full Stack JavaScript Developer**, build impactful software solutions, contribute to open-source projects, and work with global teams while continuously learning and improving my engineering skills.
+My goal is to become a highly skilled **Full Stack Developer**, build impactful software solutions, contribute to open-source projects, and work with global teams while continuously learning and improving my engineering skills.
 
 ---
 <!-- =================================================== -->
@@ -188,23 +176,7 @@ My goal is to become a highly skilled **Full Stack JavaScript Developer**, build
 
 A modern healthcare management platform that enables patients to book appointments, make secure online payments, and manage prescriptions through dedicated dashboards.
 
-**Tech Stack:** Next.js • React • TypeScript • Node.js • Express.js • MongoDB • Tailwind CSS
-
----
-
-## 💼 HireLoop
-
-A full-stack job portal where employers can post jobs and candidates can search, apply, and manage applications with a modern user experience.
-
-**Tech Stack:** React • Node.js • Express.js • MongoDB • Tailwind CSS
-
----
-
-## 🚗 TravelVista
-
-A responsive vehicle rental platform with booking workflows, authentication, and an intuitive dashboard for users.
-
-**Tech Stack:** React • Node.js • MongoDB • Tailwind CSS
+**Tech Stack:** Next.js • React • TypeScript • Node.js • Express.js • MongoDB • Tailwind CSS • Better Auth
 
 ---
 
@@ -212,15 +184,15 @@ A responsive vehicle rental platform with booking workflows, authentication, and
 
 A modern e-commerce application featuring authentication, shopping cart functionality, and responsive product management.
 
-**Tech Stack:** React • Firebase • Tailwind CSS
+**Tech Stack:** Nest.js • React.js • Tailwind CSS • Better-Auth • Mongodb • Hero UI
 
 ---
+## 🚗 Car-Rental
 
-## 👥 KeenKeeper
+A full-stack car rental platform designed to simplify the vehicle booking experience with secure authentication, responsive design, seamless reservation management, and a modern user interface.
 
-A dashboard-based friend management application with activity tracking, statistics, and interactive charts.
+**Tech Stack:** Next.js • React.js • Tailwind CSS • Better Auth • Node.js • Express.js • MongoDB • HeroUI
 
-**Tech Stack:** React • JavaScript • Recharts • Tailwind CSS
 
 ---
 
@@ -265,107 +237,6 @@ A JavaScript project demonstrating DOM manipulation, issue tracking, filtering, 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanMohammodZakaria&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-# 📌 Highlights
-
-- 🚀 Passionate about Full Stack JavaScript Development
-- ⚡ Focused on Performance & Clean Code
-- 📚 Continuous Learner
-- 🌍 Open to Remote Opportunities
-- 🤝 Open to Collaboration
-- 💡 Love Building Real-World Applications
-
----
-<!-- =================================================== -->
-<!--               LEARNING JOURNEY                      -->
-<!-- =================================================== -->
-
-# 🌱 Learning Journey
-
-I believe that great developers never stop learning. I'm continuously improving my skills by exploring modern technologies, software engineering best practices, and scalable application architecture.
-
-### 📚 Currently Learning
-
-- Advanced TypeScript
-- Next.js App Router
-- Authentication & Authorization
-- Backend Architecture
-- System Design Fundamentals
-- Performance Optimization
-- Clean Code Principles
-- Scalable REST API Development
-
----
-
-<!-- =================================================== -->
-<!--                 2026 ROADMAP                        -->
-<!-- =================================================== -->
-
-# 🎯 2026 Roadmap
-
-- 🚀 Build more production-ready Full Stack applications
-- 💼 Secure a Remote Software Engineering position
-- 🌍 Contribute to Open Source Projects
-- 📚 Improve Data Structures & Algorithms
-- 🧠 Strengthen Problem Solving Skills
-- ⚡ Master TypeScript
-- 🏗 Learn Scalable Backend Architecture
-- ☁️ Explore Cloud Deployment & DevOps Fundamentals
-
----
-
-<!-- =================================================== -->
-<!--                 OPEN TO WORK                        -->
-<!-- =================================================== -->
-
-# 💼 Open to Work
-
-I'm open to opportunities in:
-
-- Full Stack JavaScript Development
-- Frontend Development (React / Next.js)
-- Backend Development (Node.js)
-- Remote Software Engineering Roles
-- Freelance Projects
-- Open Source Collaboration
-
----
-
-<!-- =================================================== -->
-<!--                CODING PHILOSOPHY                    -->
-<!-- =================================================== -->
-
-# 💡 Coding Philosophy
-
-I believe that writing code is not only about making things work.
-
-I focus on writing:
-
-- Clean Code
-- Readable Code
-- Maintainable Code
-- Scalable Architecture
-- User-Centered Solutions
-
-> **"First, solve the problem. Then, write clean and maintainable code."**
-
----
-
-<!-- =================================================== -->
-<!--               PERSONAL VALUES                       -->
-<!-- =================================================== -->
-
-# 🌟 Beyond Coding
-
-Outside of software development, I enjoy:
-
-- 📖 Reading books
-- 📚 Learning new technologies
-- 🤝 Sharing knowledge
-- 🌍 Exploring innovative ideas
-- 🕌 Maintaining a balanced lifestyle
 
 ---
 
